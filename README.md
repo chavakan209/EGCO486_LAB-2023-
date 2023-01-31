@@ -13,9 +13,12 @@ The style of codes written in this repository is my current (January - April, 20
 # Content
 
 - Week 1 Basic Python & OpenCV 
+[[Link]](https://github.com/chavakan209/EGCO486_LAB-2023-/tree/readme-edit/Week%201%20Basic%20Python%20%26%20OpenCV)
 
-- Week 2 Digital Image Fundamental
+- Week 2 Digital Image Fundamental 
+[[Link]](https://github.com/chavakan209/EGCO486_LAB-2023-/tree/readme-edit/Week%202%20Digital%20Image%20Fundamental)
 
-- Week 3 Image Enhancement in the Spatial Domain (Part 1)
+- Week 3 Image Enhancement in the Spatial Domain (Part 1) 
+[[Link]](https://github.com/chavakan209/EGCO486_LAB-2023-/tree/readme-edit/Week%203%20Image%20Enhancement%20in%20the%20Spatial%20Domain%20(Part%201))
 
 - . . .
