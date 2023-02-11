@@ -21,4 +21,6 @@ The style of codes written in this repository is my current (January - April, 20
 - Week 3 Image Enhancement in the Spatial Domain (Part 1) 
 [[Link]](https://github.com/chavakan209/EGCO486_LAB-2023-/tree/main/Week%203%20Image%20Enhancement%20in%20the%20Spatial%20Domain%20(Part%201))
 
+- Week 4 Image Enhancement in the Spatial Domain (Part 2)
+
 - . . .
